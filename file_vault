@@ -1,0 +1,23 @@
+{
+"vercode": 1,
+"inter_setting": "",
+"inter_main": "",
+"banner_setting": "",
+"banner_main": ",
+"openAds": "",
+"openAdsPortrait": "",
+"openAdsLanspace": "",
+"isShowAds": true,
+"timeShow": 3,
+"percent": [
+100,
+100,
+100,
+100,
+100,
+100,
+100,
+100,
+100
+]
+}
